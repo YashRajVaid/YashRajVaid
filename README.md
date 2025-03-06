@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Raj Vaid
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me yashrajvaid@gmail.com
 
